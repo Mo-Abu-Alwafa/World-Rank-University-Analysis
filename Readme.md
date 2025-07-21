@@ -26,3 +26,7 @@ This project analyzes the 2025 global university landscape, ranking 2,000 instit
 - Institutions: Benchmark against global leaders for continuous improvement
 
 ---
+
+<p align="center">
+  <img src="Dash 1.png" alt="Web App Sample" width="600"/>
+</p>
