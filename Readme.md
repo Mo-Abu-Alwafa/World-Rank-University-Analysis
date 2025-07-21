@@ -1,4 +1,8 @@
+<p align="center">
+  <img src="cwur_logo.svg" alt="Web App Sample" width="600"/>
+</p>
 
+---
 
 # World University Rankings Analysis (2025)
 
