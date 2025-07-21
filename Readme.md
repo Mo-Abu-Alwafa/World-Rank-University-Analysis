@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="Dash 1.png" alt="Web App Sample" width="600"/>
-</p>
 
----
 
 # World University Rankings Analysis (2025)
 
