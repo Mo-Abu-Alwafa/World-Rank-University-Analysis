@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cwur_logo.svg" alt="Web App Sample" width="600"/>
+  <img src="cwur_logo.svg" alt="Web App Sample" width="400"/>
 </p>
 
 ---
