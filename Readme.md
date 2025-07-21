@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Dash 1.jpg" alt="Web App Sample" width="600"/>
+  <img src="Dash 1.png" alt="Web App Sample" width="600"/>
 </p>
 
 ---
